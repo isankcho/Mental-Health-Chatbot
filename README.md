@@ -1,1 +1,2 @@
 # Mental-Health-Chatbot
+The mental health chatbot is developed using the RASA framework, an open-source platform for building AI assistants and chatbots with natural language understanding capabilities. The chatbot's purpose is to analyze a person's likelihood of mental illness based on their responses to a survey questionnaire. With its advanced machine learning techniques, the chatbot engages users in a fun conversation while uplifting their mood.
